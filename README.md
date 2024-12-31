@@ -1,6 +1,6 @@
 # Tantravaṭadhānikā
 
-English translation of *Tantravaṭadhānikā* (“Seed of the Banyan Tree of Tantra”) of Abhinavagupta
+English translation of *Tantravaṭadhānikā* (“Seed of the Banyan Tree of Tantra”) of Abhinavagupta.
 
 - [Introduction](/introduction.md)
 - [Transliteration](/transliteration.md)
