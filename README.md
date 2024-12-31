@@ -5,3 +5,4 @@ English translation of *Tantravaṭadhānikā* (“Seed of the Banyan Tree of Ta
 - [Introduction](/introduction.md)
 - [Āhnika I](/ahnika01.md)
 - [Āhnika II](/ahnika02.md)
+- [Āhnika III](/ahnika03.md)
